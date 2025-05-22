@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "714733312376",
+    "project_id": "babyshop-3eb11",
+    "storage_bucket": "babyshop-3eb11.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:714733312376:android:c1539badfa22d3971b908d",
+        "android_client_info": {
+          "package_name": "com.example.admin_panel"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApvTrfnz36Q6T5M74lSkC9HGC5sQu_0_I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:714733312376:android:3ba551116e3e38b11b908d",
+        "android_client_info": {
+          "package_name": "com.example.youtube_videoplayer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApvTrfnz36Q6T5M74lSkC9HGC5sQu_0_I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
